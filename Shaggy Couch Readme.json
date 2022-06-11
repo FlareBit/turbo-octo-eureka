@@ -1,0 +1,28 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Shaggy Couch Readme",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Welcome to <:sed:980373365598613504> Shaggy Couch",
+                "description": "Sup Aesthetic Cats! Welcome to Shaggy Couch. Here you can interact with many more normies like you. We also have community sub-channels where you can let your monkey brains to roam freely... with respect to your interest of course.\nHope you have some good time here with the wholesome people.\n\n**To interact with better cats, personalize your server profile with the self roles. You can assign your roles from <#980041356409995304>**",
+                "color": 16764037
+              }
+            ]
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/v10/webhooks/980377808444489779/WJOiqZFDOnxVYau_nGz68NqzKwseN5OwIohyfl0FF0fe5qjN5a7jCiNtqyxIM4kZQAy8"
+        }
+      ]
+    }
+  ]
+}
